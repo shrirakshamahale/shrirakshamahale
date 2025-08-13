@@ -9,7 +9,7 @@
 ### 🚀 I'm Currently Working On:
 
 - **Full Stack WebDevelopmet** -HTML,CSS,JAVASCRIPT
-- **Mini Projects on Python ** – Built using Python  
+- Mini Projects on Python  – Built using Python  
 
 ---
 
