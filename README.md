@@ -8,17 +8,15 @@
 
 ### 🚀 I'm Currently Working On:
 
-- **Smart Campus Navigation System** – Flutter-based app for MITE  
-- **Hospital Management System** – Built using C  
-- **Quiz App** – MCQ-based Flutter app with score tracking  
-- **BMI Calculator App** – Flutter app for calculating body mass index  
+- **Full Stack WebDevelopmet** -HTML,CSS,JAVASCRIPT
+- **Mini Projects on Python ** – Built using Python  
 
 ---
 
 ### 📘 I'm Currently Learning:
 
 - Data Structures & Algorithms  
-- C, Java Programming  
+- python 
 - Flutter & Dart for mobile/web development  
 - Web Development – HTML, CSS, JavaScript  
 
@@ -26,8 +24,9 @@
 
 ### 🤝 I'm Looking to Collaborate On:
 
-- App development projects – Weather app, Food tracker  
-- AI/ML-based projects – NLP, Automation  
+- App development projects 
+- AI/ML-based projects – NLP, Automation
+- Hackathons and Coding competitions
 - Learning Django or similar backend frameworks  
 
 ---
@@ -46,9 +45,9 @@
 - **Gmail:** shrirakshamahale24@gmail.com  
 - **LinkedIn:** [linkedin.com/in/shriraksha-mahale-b85803318](https://linkedin.com/in/shriraksha-mahale-b85803318)  
 - **Substack:** [shriraksha.substack.com](https://shriraksha.substack.com)  
-- **GitHub:** [github.com/shrirakshamahale](https://github.com/shrirakshamahale)  
-
----
+- **GitHub:** [github.com/shrirakshamahale](https://github.com/shrirakshamahale)
+- **portifolio:** [portifolio.com/shrirakshamahale](http://127.0.0.1:3000/resume/index.html)
+  
 
 ### 🧰 Languages & Tools:
 
