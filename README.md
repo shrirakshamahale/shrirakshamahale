@@ -46,7 +46,7 @@
 - **LinkedIn:** [linkedin.com/in/shriraksha-mahale-b85803318](https://linkedin.com/in/shriraksha-mahale-b85803318)  
 - **Substack:** [shriraksha.substack.com](https://shriraksha.substack.com)  
 - **GitHub:** [github.com/shrirakshamahale](https://github.com/shrirakshamahale)
-- **portifolio:** [portifolio.com/shrirakshamahale](http://127.0.0.1:3000/resume/index.html)
+
   
 
 ### 🧰 Languages & Tools:
