@@ -2,7 +2,7 @@
 🚀 I’m Working On<br><br>
 → 🌐 Building responsive and interactive websites using HTML, CSS, and JavaScript.<br>
 → 🐍 Creating mini Python projects to practice coding, problem-solving, and automation.<br>
-→ 📱 Developing the Euphoria App as a personal project to apply my full-stack skills.<br>
+→ 📱 Developing the Euphoria App as a personal project to apply my flutter skills.<br>
 → 🗺️ Building a Smart Campus Navigation app using Flutter to help students navigate their campus easily.<br>
 → ⚖️ Creating a BMI Calculator app with Flutter for quick and simple health tracking.<br>
 → 🖼️ Developing a Portfolio App using Flutter to showcase skills, projects, and achievements.<br>
