@@ -26,7 +26,7 @@
 → 💻 I’m interested in Full-Stack Development with Django, Flutter, React, and Firebase for end-to-end app building.<br>
 → 🌐 I’m interested in Blockchain & Decentralized Technologies for secure and transparent applications.<br>
 → 📡 I’m interested in IoT (Internet of Things) and its integration with mobile/web apps.<br><br>
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🤝 I’m Open to Collaborate On<br><br>
 → 📱 I’m open to collaborating on innovative app development projects with real-world impact.<br>
 → 🤖 I’m open to working on AI/ML projects focused on NLP, text analysis, and intelligent automation.<br>
