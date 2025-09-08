@@ -8,7 +8,7 @@
 → 🖼️ Developing a Portfolio App using Flutter to showcase skills, projects, and achievements.<br>
 → 🗄️ Experimenting with Databases (MySQL, MongoDB, Firebase Firestore) for real-world projects.<br>
 → ⚙️ Practicing API development and integration with REST & GraphQL.<br><br>
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📘 I’m Learning<br><br>
 → 📊 I’m strengthening problem-solving by studying Data Structures & Algorithms and solving problems on LeetCode & HackerRank.<br>
 → 🌐 I’m currently learning Full Stack Development to build complete web apps from frontend to backend.<br>
@@ -16,10 +16,10 @@
 → 📱 I’m exploring Flutter & Dart to build cross-platform apps for mobile and web.<br>
 → 💻 I’m practicing C Programming to improve my computer science fundamentals and problem-solving skills.<br>
 → ☁️ I’m exploring AWS Cloud Native development to deploy and scale modern applications.<br>
-→ 🤖 I’m learning AI/ML concepts with NLP automation and DALL·E for creative and intelligent applications.<br>
+→ 🤖 I’m learning AI/ML concepts with NLP automation for creative and intelligent applications.<br>
 → ⚛️ I’m exploring React.js for modern frontend development.<br>
 → 🐳 I’m learning Docker & containerization for efficient app deployment.<br><br>
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 👀 I’m Interested In<br><br>
 → 🔐 I’m interested in Cybersecurity & Ethical Hacking to understand how systems can be secured from real-world threats.<br>
 → 🤖 I’m interested in AI & Machine Learning to create smart, automated, and data-driven applications.<br>
@@ -33,7 +33,7 @@
 → 🏆 I’m open to joining hackathons and coding competitions to build solutions under time pressure.<br>
 → ⚙️ I’m open to contributing to scalable backend web apps using Django, Flask, Node.js, or similar frameworks.<br>
 → 🗄️ I’m open to working on database-driven apps using MySQL, MongoDB, or Firebase.<br><br>
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ❓ I’m Seeking Help With<br><br>
 → 🖥️ I’m seeking guidance on mastering Django to build advanced, production-ready web apps.<br>
 → 🔒 I’m seeking help in learning cybersecurity best practices to secure apps and systems.<br>
@@ -42,7 +42,7 @@
 → 🏗️ I’m seeking support in implementing an efficient address module for apps requiring location and delivery features.<br>
 → 💻 I’m seeking help in strengthening my skills in C Programming through advanced problem-solving.<br>
 → 🐳 I’m seeking guidance on Docker & Kubernetes for modern DevOps practices.<br><br>
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 💬 You Can Ask Me About<br><br>
 → 📱 Flutter & Dart development for cross-platform apps.<br>
 → 💻 C Programming fundamentals and problem-solving.<br>
@@ -50,12 +50,12 @@
 → 🏆 My experience with LeetCode & HackerRank problem-solving.<br>
 → 🐍 Python projects for automation, web apps, and AI/ML.<br>
 → ☁️ Getting started with AWS, Firebase, and cloud deployments.<br><br>
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📫 How to reach me:<br>
 → LinkedIn 👉 https://www.linkedin.com/in/shriraksha-mahale-b85803318/<br>
 → GitHub 👉 https://github.com/shrirakshamahale<br>
 → Email 👉 mailto:shrirakshamahale24@gmail.com<br><br>
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriraksha-mahale-b85803318/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrirakshamahale24@gmail.com)  
